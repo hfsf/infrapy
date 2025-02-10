@@ -1,0 +1,11 @@
+{
+    "Num. freq. mínimo": 400,
+    "Num. freq. máximo": 4000,
+    "T(%) mínimo": 52,
+    "T(%) máximo": 100,
+    "Normalizar": "Não",
+    "B": "Method2",
+    "C": "Method3",
+    "Checkbox1": true,
+    "Checkbox2": false
+}
