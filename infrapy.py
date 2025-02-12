@@ -34,8 +34,7 @@ mpl.use('QtAgg')
 from scipy.signal import find_peaks, find_peaks_cwt
 import json
 
-from .src import smoothing
-
+from src import smoothing
 
 #TODO: Incluir 2 janelas: Zoom e Panning; Desabilitar por padrão salvamento de imagens
 #TODO: Analisar a migração do MPL para geração de gráficos
